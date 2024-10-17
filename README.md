@@ -1,7 +1,7 @@
 # MatchQuest-bot
 ![badge](https://img.shields.io/badge/version-1.0-blue)
 
-This project is an automation bot for interacting with the VooiDC platform via its API. The bot handles tasks like logging in, managing autotrades, playing a tapping game, and claiming rewards. It uses proxies for requests, automatically retries connections, and supports multiple accounts.
+This project is an automation bot for interacting with the platform via its API. The bot handles tasks like logging in, managing autotrades, playing a tapping game, and claiming rewards. It uses proxies for requests, automatically retries connections, and supports multiple accounts.
 
 ## DISCLAIMER!
 
